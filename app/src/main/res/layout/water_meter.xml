@@ -52,4 +52,5 @@
         app:layout_constraintRight_toRightOf="@+id/water_level"
         app:layout_constraintTop_toTopOf="@+id/last_watered_number"
         tools:text="@string/minutes" />
+
 </android.support.constraint.ConstraintLayout>
